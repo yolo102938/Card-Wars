@@ -1,0 +1,48 @@
+package crc646db5cb03efab6058;
+
+
+public class GamePlayActivity
+	extends android.app.Activity
+	implements
+		mono.android.IGCUserPeer
+{
+/** @hide */
+	public static final String __md_methods;
+	static {
+		__md_methods = 
+			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
+			"";
+		mono.android.Runtime.register ("CardWars.GamePlayActivity, CardWars", GamePlayActivity.class, __md_methods);
+	}
+
+
+	public GamePlayActivity ()
+	{
+		super ();
+		if (getClass () == GamePlayActivity.class) {
+			mono.android.TypeManager.Activate ("CardWars.GamePlayActivity, CardWars", "", this, new java.lang.Object[] {  });
+		}
+	}
+
+
+	public void onCreate (android.os.Bundle p0)
+	{
+		n_onCreate (p0);
+	}
+
+	private native void n_onCreate (android.os.Bundle p0);
+
+	private java.util.ArrayList refList;
+	public void monodroidAddReference (java.lang.Object obj)
+	{
+		if (refList == null)
+			refList = new java.util.ArrayList ();
+		refList.add (obj);
+	}
+
+	public void monodroidClearReferences ()
+	{
+		if (refList != null)
+			refList.clear ();
+	}
+}

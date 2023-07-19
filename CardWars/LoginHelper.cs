@@ -121,6 +121,7 @@ namespace CardWars
                             editor.PutString("email", email);
                             editor.PutString("pass", pass);
                             editor.PutString("username", username);
+                            editor.PutInt("coins", 500);
                             editor.PutStringSet("friends", user.Friends);
                             editor.Apply();
                             await m_client.Child("Users").Child(user.FirebaseUser.Uid).Child("Username").PutAsync<string>(username);
@@ -143,7 +144,7 @@ namespace CardWars
                         try
                         {
                             var result = await auth.SignInWithEmailAndPasswordAsync(email, pass);
-                            user = new User(result.User);
+                            user = new User(result.User, await m_client.Child("Users").Child(result.User.Uid).Child("Coins").OnceSingleAsync<int>());
                             user.Username = await m_client.Child("Users").Child(user.FirebaseUser.Uid).Child("Username").OnceSingleAsync<string>();
                             if (user.Username != username)
                             {
@@ -164,6 +165,7 @@ namespace CardWars
                                 editor.PutString("email", email);
                                 editor.PutString("pass", pass);
                                 editor.PutString("username", username);
+                                editor.PutInt("coins", user.Coins);
                                 editor.PutStringSet("friends", user.Friends);
                                 editor.Apply();
                             }
@@ -245,7 +247,7 @@ namespace CardWars
             else
             {
                 var result = await auth.SignInWithEmailAndPasswordAsync(email, pass);
-                user = new User(result.User);
+                user = new User(result.User, await m_client.Child("Users").Child(result.User.Uid).Child("Coins").OnceSingleAsync<int>());
                 user.Username = await m_client.Child("Users").Child(user.FirebaseUser.Uid).Child("Username").OnceSingleAsync<string>();
                 user.Friends = (sp.GetStringSet("friends", null)).ToList<string>();
                 await StartLoading();

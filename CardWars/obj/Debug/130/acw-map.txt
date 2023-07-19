@@ -1,3 +1,6 @@
+CardWars.GameActivity, CardWars;crc646db5cb03efab6058.GameActivity
+CardWars.GameActivity;crc646db5cb03efab6058.GameActivity
+cardwars.GameActivity;crc646db5cb03efab6058.GameActivity
 CardWars.PersonalZone, CardWars;crc646db5cb03efab6058.PersonalZone
 CardWars.PersonalZone;crc646db5cb03efab6058.PersonalZone
 cardwars.PersonalZone;crc646db5cb03efab6058.PersonalZone
@@ -55,6 +58,216 @@ androidx.annotation.experimental.Experimental;androidx.annotation.experimental.E
 AndroidX.Annotations.Experimental.IUseExperimental, Xamarin.AndroidX.Annotation.Experimental;androidx.annotation.experimental.UseExperimental
 AndroidX.Annotations.Experimental.IUseExperimental;androidx.annotation.experimental.UseExperimental
 androidx.annotation.experimental.UseExperimental;androidx.annotation.experimental.UseExperimental
+AndroidX.Annotations.IAnimatorRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.AnimatorRes
+AndroidX.Annotations.IAnimatorRes;androidx.annotation.AnimatorRes
+androidx.annotation.AnimatorRes;androidx.annotation.AnimatorRes
+AndroidX.Annotations.IAnimRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.AnimRes
+AndroidX.Annotations.IAnimRes;androidx.annotation.AnimRes
+androidx.annotation.AnimRes;androidx.annotation.AnimRes
+AndroidX.Annotations.IAnyRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.AnyRes
+AndroidX.Annotations.IAnyRes;androidx.annotation.AnyRes
+androidx.annotation.AnyRes;androidx.annotation.AnyRes
+AndroidX.Annotations.IAnyThread, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.AnyThread
+AndroidX.Annotations.IAnyThread;androidx.annotation.AnyThread
+androidx.annotation.AnyThread;androidx.annotation.AnyThread
+AndroidX.Annotations.IArrayRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.ArrayRes
+AndroidX.Annotations.IArrayRes;androidx.annotation.ArrayRes
+androidx.annotation.ArrayRes;androidx.annotation.ArrayRes
+AndroidX.Annotations.IAttrRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.AttrRes
+AndroidX.Annotations.IAttrRes;androidx.annotation.AttrRes
+androidx.annotation.AttrRes;androidx.annotation.AttrRes
+AndroidX.Annotations.IBinderThread, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.BinderThread
+AndroidX.Annotations.IBinderThread;androidx.annotation.BinderThread
+androidx.annotation.BinderThread;androidx.annotation.BinderThread
+AndroidX.Annotations.IBoolRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.BoolRes
+AndroidX.Annotations.IBoolRes;androidx.annotation.BoolRes
+androidx.annotation.BoolRes;androidx.annotation.BoolRes
+AndroidX.Annotations.ICallSuper, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.CallSuper
+AndroidX.Annotations.ICallSuper;androidx.annotation.CallSuper
+androidx.annotation.CallSuper;androidx.annotation.CallSuper
+AndroidX.Annotations.ICheckResult, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.CheckResult
+AndroidX.Annotations.ICheckResult;androidx.annotation.CheckResult
+androidx.annotation.CheckResult;androidx.annotation.CheckResult
+AndroidX.Annotations.IChecksSdkIntAtLeast, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.ChecksSdkIntAtLeast
+AndroidX.Annotations.IChecksSdkIntAtLeast;androidx.annotation.ChecksSdkIntAtLeast
+androidx.annotation.ChecksSdkIntAtLeast;androidx.annotation.ChecksSdkIntAtLeast
+AndroidX.Annotations.IColorInt, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.ColorInt
+AndroidX.Annotations.IColorInt;androidx.annotation.ColorInt
+androidx.annotation.ColorInt;androidx.annotation.ColorInt
+AndroidX.Annotations.IColorLong, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.ColorLong
+AndroidX.Annotations.IColorLong;androidx.annotation.ColorLong
+androidx.annotation.ColorLong;androidx.annotation.ColorLong
+AndroidX.Annotations.IColorRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.ColorRes
+AndroidX.Annotations.IColorRes;androidx.annotation.ColorRes
+androidx.annotation.ColorRes;androidx.annotation.ColorRes
+AndroidX.Annotations.IContentView, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.ContentView
+AndroidX.Annotations.IContentView;androidx.annotation.ContentView
+androidx.annotation.ContentView;androidx.annotation.ContentView
+AndroidX.Annotations.IDeprecatedSinceApi, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.DeprecatedSinceApi
+AndroidX.Annotations.IDeprecatedSinceApi;androidx.annotation.DeprecatedSinceApi
+androidx.annotation.DeprecatedSinceApi;androidx.annotation.DeprecatedSinceApi
+AndroidX.Annotations.IDimenRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.DimenRes
+AndroidX.Annotations.IDimenRes;androidx.annotation.DimenRes
+androidx.annotation.DimenRes;androidx.annotation.DimenRes
+AndroidX.Annotations.IDimension, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.Dimension
+AndroidX.Annotations.IDimension;androidx.annotation.Dimension
+androidx.annotation.Dimension;androidx.annotation.Dimension
+AndroidX.Annotations.IDiscouraged, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.Discouraged
+AndroidX.Annotations.IDiscouraged;androidx.annotation.Discouraged
+androidx.annotation.Discouraged;androidx.annotation.Discouraged
+AndroidX.Annotations.IDisplayContext, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.DisplayContext
+AndroidX.Annotations.IDisplayContext;androidx.annotation.DisplayContext
+androidx.annotation.DisplayContext;androidx.annotation.DisplayContext
+AndroidX.Annotations.IDoNotInline, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.DoNotInline
+AndroidX.Annotations.IDoNotInline;androidx.annotation.DoNotInline
+androidx.annotation.DoNotInline;androidx.annotation.DoNotInline
+AndroidX.Annotations.IDrawableRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.DrawableRes
+AndroidX.Annotations.IDrawableRes;androidx.annotation.DrawableRes
+androidx.annotation.DrawableRes;androidx.annotation.DrawableRes
+AndroidX.Annotations.IEmptySuper, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.EmptySuper
+AndroidX.Annotations.IEmptySuper;androidx.annotation.EmptySuper
+androidx.annotation.EmptySuper;androidx.annotation.EmptySuper
+AndroidX.Annotations.IFloatRange, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.FloatRange
+AndroidX.Annotations.IFloatRange;androidx.annotation.FloatRange
+androidx.annotation.FloatRange;androidx.annotation.FloatRange
+AndroidX.Annotations.IFontRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.FontRes
+AndroidX.Annotations.IFontRes;androidx.annotation.FontRes
+androidx.annotation.FontRes;androidx.annotation.FontRes
+AndroidX.Annotations.IFractionRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.FractionRes
+AndroidX.Annotations.IFractionRes;androidx.annotation.FractionRes
+androidx.annotation.FractionRes;androidx.annotation.FractionRes
+AndroidX.Annotations.IGravityInt, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.GravityInt
+AndroidX.Annotations.IGravityInt;androidx.annotation.GravityInt
+androidx.annotation.GravityInt;androidx.annotation.GravityInt
+AndroidX.Annotations.IGuardedBy, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.GuardedBy
+AndroidX.Annotations.IGuardedBy;androidx.annotation.GuardedBy
+androidx.annotation.GuardedBy;androidx.annotation.GuardedBy
+AndroidX.Annotations.IHalfFloat, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.HalfFloat
+AndroidX.Annotations.IHalfFloat;androidx.annotation.HalfFloat
+androidx.annotation.HalfFloat;androidx.annotation.HalfFloat
+AndroidX.Annotations.IIdRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.IdRes
+AndroidX.Annotations.IIdRes;androidx.annotation.IdRes
+androidx.annotation.IdRes;androidx.annotation.IdRes
+AndroidX.Annotations.IInspectablePropertyEnumEntry, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.InspectableProperty$EnumEntry
+AndroidX.Annotations.IInspectablePropertyEnumEntry;androidx.annotation.InspectableProperty$EnumEntry
+androidx.annotation.InspectableProperty$EnumEntry;androidx.annotation.InspectableProperty$EnumEntry
+AndroidX.Annotations.IInspectablePropertyFlagEntry, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.InspectableProperty$FlagEntry
+AndroidX.Annotations.IInspectablePropertyFlagEntry;androidx.annotation.InspectableProperty$FlagEntry
+androidx.annotation.InspectableProperty$FlagEntry;androidx.annotation.InspectableProperty$FlagEntry
+AndroidX.Annotations.IInspectableProperty, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.InspectableProperty
+AndroidX.Annotations.IInspectableProperty;androidx.annotation.InspectableProperty
+androidx.annotation.InspectableProperty;androidx.annotation.InspectableProperty
+AndroidX.Annotations.IIntDef, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.IntDef
+AndroidX.Annotations.IIntDef;androidx.annotation.IntDef
+androidx.annotation.IntDef;androidx.annotation.IntDef
+AndroidX.Annotations.IIntegerRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.IntegerRes
+AndroidX.Annotations.IIntegerRes;androidx.annotation.IntegerRes
+androidx.annotation.IntegerRes;androidx.annotation.IntegerRes
+AndroidX.Annotations.IInterpolatorRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.InterpolatorRes
+AndroidX.Annotations.IInterpolatorRes;androidx.annotation.InterpolatorRes
+androidx.annotation.InterpolatorRes;androidx.annotation.InterpolatorRes
+AndroidX.Annotations.IIntRange, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.IntRange
+AndroidX.Annotations.IIntRange;androidx.annotation.IntRange
+androidx.annotation.IntRange;androidx.annotation.IntRange
+AndroidX.Annotations.IKeep, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.Keep
+AndroidX.Annotations.IKeep;androidx.annotation.Keep
+androidx.annotation.Keep;androidx.annotation.Keep
+AndroidX.Annotations.ILayoutRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.LayoutRes
+AndroidX.Annotations.ILayoutRes;androidx.annotation.LayoutRes
+androidx.annotation.LayoutRes;androidx.annotation.LayoutRes
+AndroidX.Annotations.ILongDef, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.LongDef
+AndroidX.Annotations.ILongDef;androidx.annotation.LongDef
+androidx.annotation.LongDef;androidx.annotation.LongDef
+AndroidX.Annotations.IMainThread, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.MainThread
+AndroidX.Annotations.IMainThread;androidx.annotation.MainThread
+androidx.annotation.MainThread;androidx.annotation.MainThread
+AndroidX.Annotations.IMenuRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.MenuRes
+AndroidX.Annotations.IMenuRes;androidx.annotation.MenuRes
+androidx.annotation.MenuRes;androidx.annotation.MenuRes
+AndroidX.Annotations.INavigationRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.NavigationRes
+AndroidX.Annotations.INavigationRes;androidx.annotation.NavigationRes
+androidx.annotation.NavigationRes;androidx.annotation.NavigationRes
+AndroidX.Annotations.INonNull, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.NonNull
+AndroidX.Annotations.INonNull;androidx.annotation.NonNull
+androidx.annotation.NonNull;androidx.annotation.NonNull
+AndroidX.Annotations.INonUiContext, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.NonUiContext
+AndroidX.Annotations.INonUiContext;androidx.annotation.NonUiContext
+androidx.annotation.NonUiContext;androidx.annotation.NonUiContext
+AndroidX.Annotations.INullable, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.Nullable
+AndroidX.Annotations.INullable;androidx.annotation.Nullable
+androidx.annotation.Nullable;androidx.annotation.Nullable
+AndroidX.Annotations.IOpenForTesting, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.OpenForTesting
+AndroidX.Annotations.IOpenForTesting;androidx.annotation.OpenForTesting
+androidx.annotation.OpenForTesting;androidx.annotation.OpenForTesting
+AndroidX.Annotations.IPluralsRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.PluralsRes
+AndroidX.Annotations.IPluralsRes;androidx.annotation.PluralsRes
+androidx.annotation.PluralsRes;androidx.annotation.PluralsRes
+AndroidX.Annotations.IPx, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.Px
+AndroidX.Annotations.IPx;androidx.annotation.Px
+androidx.annotation.Px;androidx.annotation.Px
+AndroidX.Annotations.IRawRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.RawRes
+AndroidX.Annotations.IRawRes;androidx.annotation.RawRes
+androidx.annotation.RawRes;androidx.annotation.RawRes
+AndroidX.Annotations.IRequiresApi, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.RequiresApi
+AndroidX.Annotations.IRequiresApi;androidx.annotation.RequiresApi
+androidx.annotation.RequiresApi;androidx.annotation.RequiresApi
+AndroidX.Annotations.IRequiresExtensionContainer, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.RequiresExtension$Container
+AndroidX.Annotations.IRequiresExtensionContainer;androidx.annotation.RequiresExtension$Container
+androidx.annotation.RequiresExtension$Container;androidx.annotation.RequiresExtension$Container
+AndroidX.Annotations.IRequiresExtension, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.RequiresExtension
+AndroidX.Annotations.IRequiresExtension;androidx.annotation.RequiresExtension
+androidx.annotation.RequiresExtension;androidx.annotation.RequiresExtension
+AndroidX.Annotations.IRequiresFeature, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.RequiresFeature
+AndroidX.Annotations.IRequiresFeature;androidx.annotation.RequiresFeature
+androidx.annotation.RequiresFeature;androidx.annotation.RequiresFeature
+AndroidX.Annotations.IRequiresPermissionRead, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.RequiresPermission$Read
+AndroidX.Annotations.IRequiresPermissionRead;androidx.annotation.RequiresPermission$Read
+androidx.annotation.RequiresPermission$Read;androidx.annotation.RequiresPermission$Read
+AndroidX.Annotations.IRequiresPermissionWrite, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.RequiresPermission$Write
+AndroidX.Annotations.IRequiresPermissionWrite;androidx.annotation.RequiresPermission$Write
+androidx.annotation.RequiresPermission$Write;androidx.annotation.RequiresPermission$Write
+AndroidX.Annotations.IRequiresPermission, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.RequiresPermission
+AndroidX.Annotations.IRequiresPermission;androidx.annotation.RequiresPermission
+androidx.annotation.RequiresPermission;androidx.annotation.RequiresPermission
+AndroidX.Annotations.IRestrictTo, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.RestrictTo
+AndroidX.Annotations.IRestrictTo;androidx.annotation.RestrictTo
+androidx.annotation.RestrictTo;androidx.annotation.RestrictTo
+AndroidX.Annotations.IReturnThis, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.ReturnThis
+AndroidX.Annotations.IReturnThis;androidx.annotation.ReturnThis
+androidx.annotation.ReturnThis;androidx.annotation.ReturnThis
+AndroidX.Annotations.ISize, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.Size
+AndroidX.Annotations.ISize;androidx.annotation.Size
+androidx.annotation.Size;androidx.annotation.Size
+AndroidX.Annotations.IStringDef, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.StringDef
+AndroidX.Annotations.IStringDef;androidx.annotation.StringDef
+androidx.annotation.StringDef;androidx.annotation.StringDef
+AndroidX.Annotations.IStringRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.StringRes
+AndroidX.Annotations.IStringRes;androidx.annotation.StringRes
+androidx.annotation.StringRes;androidx.annotation.StringRes
+AndroidX.Annotations.IStyleableRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.StyleableRes
+AndroidX.Annotations.IStyleableRes;androidx.annotation.StyleableRes
+androidx.annotation.StyleableRes;androidx.annotation.StyleableRes
+AndroidX.Annotations.IStyleRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.StyleRes
+AndroidX.Annotations.IStyleRes;androidx.annotation.StyleRes
+androidx.annotation.StyleRes;androidx.annotation.StyleRes
+AndroidX.Annotations.ITransitionRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.TransitionRes
+AndroidX.Annotations.ITransitionRes;androidx.annotation.TransitionRes
+androidx.annotation.TransitionRes;androidx.annotation.TransitionRes
+AndroidX.Annotations.IUiContext, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.UiContext
+AndroidX.Annotations.IUiContext;androidx.annotation.UiContext
+androidx.annotation.UiContext;androidx.annotation.UiContext
+AndroidX.Annotations.IUiThread, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.UiThread
+AndroidX.Annotations.IUiThread;androidx.annotation.UiThread
+androidx.annotation.UiThread;androidx.annotation.UiThread
+AndroidX.Annotations.IVisibleForTesting, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.VisibleForTesting
+AndroidX.Annotations.IVisibleForTesting;androidx.annotation.VisibleForTesting
+androidx.annotation.VisibleForTesting;androidx.annotation.VisibleForTesting
+AndroidX.Annotations.IWorkerThread, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.WorkerThread
+AndroidX.Annotations.IWorkerThread;androidx.annotation.WorkerThread
+androidx.annotation.WorkerThread;androidx.annotation.WorkerThread
+AndroidX.Annotations.IXmlRes, Xamarin.AndroidX.Annotation.Jvm;androidx.annotation.XmlRes
+AndroidX.Annotations.IXmlRes;androidx.annotation.XmlRes
+androidx.annotation.XmlRes;androidx.annotation.XmlRes
 AndroidX.AppCompat.Widget.ResourceManagerInternal+IResourceManagerHooks, Xamarin.AndroidX.AppCompat.AppCompatResources;androidx.appcompat.widget.ResourceManagerInternal$ResourceManagerHooks
 AndroidX.AppCompat.Widget.ResourceManagerInternal.IResourceManagerHooks;androidx.appcompat.widget.ResourceManagerInternal$ResourceManagerHooks
 androidx.appcompat.widget.ResourceManagerInternal$ResourceManagerHooks;androidx.appcompat.widget.ResourceManagerInternal$ResourceManagerHooks

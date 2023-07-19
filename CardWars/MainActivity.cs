@@ -30,7 +30,7 @@ namespace CardWars
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             SetContentView(Resource.Layout.activity_main);
 
-            sp = GetSharedPreferences("CardWars", FileCreationMode.Private);
+            sp = GetSharedPreferences("CardWars30", FileCreationMode.Private);
             auth = FirebaseAuth.Instance;
 
             var loginHelper = new LoginHelper(this, sp, auth, user);

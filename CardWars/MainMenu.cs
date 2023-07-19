@@ -5,6 +5,7 @@ using Android.Widget;
 using Android.Media;
 using Android.Views.Animations;
 using System;
+using Android.Content;
 
 #pragma warning disable CS0618
 #pragma warning disable CS0672
@@ -48,11 +49,8 @@ namespace CardWars
                     m_BattleButton.ScaleX = 1f;
                     m_BattleButton.ScaleY = 1f;
                 }
-            };
-
-            m_BattleButton.Click += (sender, e) =>
-            {
-                //todo
+                Intent menu = new Intent(Activity, typeof(GameActivity));
+                StartActivity(menu);
             };
 
             return view;

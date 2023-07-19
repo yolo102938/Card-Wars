@@ -1,6 +1,7 @@
 Xamarin.AndroidX.Activity.dll
 Xamarin.AndroidX.Annotation.dll
 Xamarin.AndroidX.Annotation.Experimental.dll
+Xamarin.AndroidX.Annotation.Jvm.dll
 Xamarin.AndroidX.AppCompat.AppCompatResources.dll
 Xamarin.AndroidX.AppCompat.dll
 Xamarin.AndroidX.Arch.Core.Common.dll
@@ -137,11 +138,11 @@ firebaseencodersjson-18.0.1.aar
 firebasemeasurementconnector-20.0.0.aar
 firebaseinstallationsinterop-17.1.0.aar
 firebasecomponents-17.1.0.aar
-firebasecommon-20.3.2.aar
+firebasecommon-20.3.3.aar
 firebaseinstallations-17.1.3.aar
 firebaseiidinterop-17.1.0.aar
 firebasedatatransport-18.1.8.aar
 firebasemessaging-23.1.2.aar
 firebaseauthinterop-20.0.0.aar
-firebaseappcheckinterop-17.0.0.aar
+firebaseappcheckinterop-17.0.1.aar
 firebaseauth-22.0.0.aar

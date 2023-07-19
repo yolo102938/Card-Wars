@@ -13,7 +13,7 @@ public class User
 
     public string Username { get; set; }
     public string Email { get; set; }
-
+    public int Coins { get; set; }
     public List<string> Friends { get; set; }
 
     // Parameterless constructor for Firebase
@@ -28,6 +28,15 @@ public class User
         FirebaseUser = firebaseUser;
         Email = firebaseUser.Email;
         UserId = firebaseUser.Uid;
+        Coins = 500;
+        Friends = new List<string>();
+    }
+    public User(FirebaseUser firebaseUser, int coins)
+    {
+        FirebaseUser = firebaseUser;
+        Email = firebaseUser.Email;
+        UserId = firebaseUser.Uid;
+        Coins = coins;
         Friends = new List<string>();
     }
 }

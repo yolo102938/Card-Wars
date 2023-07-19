@@ -8,7 +8,7 @@ package androidx.fragment;
 
 public final class R {
 	public static final class anim {
-		public static final int fragment_fast_out_extra_slow_in = 0x7f01001e;
+		public static final int fragment_fast_out_extra_slow_in = 0x7f01001f;
 	}
 	public static final class animator {
 		public static final int fragment_close_enter = 0x7f020003;
@@ -19,9 +19,9 @@ public final class R {
 		public static final int fragment_open_exit = 0x7f020008;
 	}
 	public static final class id {
-		public static final int fragment_container_view_tag = 0x7f0800d3;
-		public static final int special_effects_controller_view_tag = 0x7f0801b2;
-		public static final int visible_removing_fragment_view_tag = 0x7f080208;
+		public static final int fragment_container_view_tag = 0x7f0800d7;
+		public static final int special_effects_controller_view_tag = 0x7f0801b9;
+		public static final int visible_removing_fragment_view_tag = 0x7f080211;
 	}
 	public static final class styleable {
 		public static final int[] Fragment = new int[] { 0x01010003, 0x010100d0, 0x010100d1 };
