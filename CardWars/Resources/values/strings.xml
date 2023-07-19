@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="action_settings">Settings</string>
+	<string name="Email">EMAIL ADDRESS</string>
+	<string name="signup">SIGN UP</string>
+	<string name="Username">USERNAME</string>
+	<string name="Password">PASSWORD</string>
+	<string name="Submit">SUBMIT</string>
+	<string name="Pack_Placeholder">PACK PLACE HOLDER</string>
+	<string name="Battle">BATTLE</string>
+</resources>

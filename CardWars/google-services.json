@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "847926769261",
+    "project_id": "cardwars-b0a1d",
+    "storage_bucket": "cardwars-b0a1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847926769261:android:c076828d3b13772ae8b164",
+        "android_client_info": {
+          "package_name": "com.companyname.cardwars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847926769261-u833k9mft5uun92rqhun53qjd6339dkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.cardwars",
+            "certificate_hash": "4b79c6d327c96db9f769d44ac7db3b2b88947e72"
+          }
+        },
+        {
+          "client_id": "847926769261-qg4qt9afgbpo4227jl43tggjd0c4b9dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFEU3flu8RV6dZz21ZKgOmwV5eRxJlfA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847926769261-qg4qt9afgbpo4227jl43tggjd0c4b9dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
